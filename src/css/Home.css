@@ -1,0 +1,6 @@
+.announcement {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  height: 60vh; /* Set the height to a large viewport height (but not 100 as it will overflow with Header) */
+}
