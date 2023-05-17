@@ -2,7 +2,9 @@
 
 ###### Description:
 
-Frontend application for the project. Build with:
+Frontend application for the project 👉 [https://human-vs-ai.github.io/app/](https://human-vs-ai.github.io/app/)
+
+###### Tech stack:
 
 <p align="left">
     <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white'>
