@@ -1,5 +1,4 @@
 import { useState, useEffect } from "react";
-import { useNavigate } from "react-router-dom";
 import { Container } from "react-bootstrap";
 
 import "../../css/Home.css";
@@ -15,8 +14,6 @@ function Home() {
     handleResize();
     return () => window.removeEventListener("resize", handleResize);
   }, []);
-
-  const navigate = useNavigate(); // Used to navigate to other pages
 
   // For now: simple placeholder for the frontend
   return (
